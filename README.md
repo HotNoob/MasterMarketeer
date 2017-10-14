@@ -2,7 +2,7 @@
 A [Puzzle Pirates Dark Seas](store.steampowered.com/app/552110/Puzzle_Pirates_Dark_Seas/) Commodity Market collector created for the Puzzle Pirates community using The Java Access Bridge to collect the market data from the Java window.
 
 ### How to use
-
+- Enable Java Access Bridge via "Control Panel\Ease of Access\Ease of Access Center\Use the computer without a display"
 - Build the project using Visual Studio 2017.
 - Open Puzzle Pirates Dark Seas via Steam.
 - Open up the commodity on the island you want to collect the data from.
